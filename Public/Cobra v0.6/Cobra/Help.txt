@@ -1,0 +1,6 @@
+Console commands:
+end - close cobra
+exe - excute a cobra program eg(exe.test)
+cls - clears screen
+os - use any termnial command eg(os.time)
+Go to docs folder for more

@@ -1,0 +1,20 @@
+print
+This prints text.
+goto
+5
+var=.abc
+68
+var+.abc
+1
+printvar.abc
+This prints the funny number and a string of text.
+varcache
+Null/Data
+printvar.abc
+Null/Data
+var=.but
+19
+goto
+var.but
+print
+All done!

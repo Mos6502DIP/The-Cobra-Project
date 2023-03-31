@@ -1,0 +1,4 @@
+v0.6 - Mos6502
+- Better ui
+- os commands
+
