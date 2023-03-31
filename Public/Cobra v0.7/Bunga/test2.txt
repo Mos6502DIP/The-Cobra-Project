@@ -1,4 +1,0 @@
-var=.bing(6.9)
-print(var.bing)
-fltprint(1)
-print(var.bing)[Big]

@@ -1,4 +1,0 @@
-os(cls)
-os(time /t)
-pause(30)
-goto(1)
