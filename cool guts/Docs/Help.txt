@@ -1,0 +1,14 @@
+Console commands:
+end - close cobra
+run - excute a cobra program eg(run.test)
+cls - clears screen
+os - use any termnial command eg(os.time /t)
+list - list code eg(list.test)
+play - plays audio eg(play.test.mp3)
+syntax - lists the cobra syntax eg(syntax)
+changelog - lists any changes eg(changelog)
+bat - batch runs commands eg(bat.test) use the extension .cbrbat
+cmd - switches to the command line to use all cmd features
+dir - shows all of your Cobra scripts type(os.dir) for whole directory. 
+
+Go to docs folder for more

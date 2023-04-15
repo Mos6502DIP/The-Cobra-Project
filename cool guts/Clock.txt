@@ -1,0 +1,4 @@
+os(cls)
+os(time /t)
+pause(1)
+goto(1)

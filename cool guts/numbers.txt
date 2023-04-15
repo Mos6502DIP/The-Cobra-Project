@@ -1,0 +1,4 @@
+var=.number(64)
+print(var.number)
+var+.number(64)
+goto(2)

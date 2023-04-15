@@ -1,0 +1,7 @@
+print(Test one start)
+var=.number(3)
+varcache()
+print(var.number)
+var+.number(3)
+varcache()
+print(var.number)[wow is the number 6]
