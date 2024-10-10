@@ -1,4 +1,4 @@
-This project is dead and file on git hub may not be accurate.
+This project is dead and files on the git hub may not be accurate.
 
 ---
 
