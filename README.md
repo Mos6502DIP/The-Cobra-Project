@@ -34,16 +34,9 @@ To install and run Cobra, make sure you have Python installed. Then, follow thes
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cobra-interpreter.git
-   cd cobra-interpreter
+   git clone https://github.com/Mos6502DIP/The-Cobra-Project.git
+   cd The-Cobra-Project
    ```
-
-2. **Install dependencies**:
-   Cobra requires a few libraries such as `playsound`. Install them using `pip`:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## Syntax Overview
